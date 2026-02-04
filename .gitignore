@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+waste_env/
+
+# OS-specific
+.DS_Store
+
+# Archives
+*.zip
